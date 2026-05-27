@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenralidate",
+        "uuid": 2787120,
+        "checksum": "br4s6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
